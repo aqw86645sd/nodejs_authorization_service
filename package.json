@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_authorization_service",
+  "version": "1.0.0",
+  "description": "auth service with mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqw86645sd/nodejs_authorization_service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqw86645sd/nodejs_authorization_service/issues"
+  },
+  "homepage": "https://github.com/aqw86645sd/nodejs_authorization_service#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
